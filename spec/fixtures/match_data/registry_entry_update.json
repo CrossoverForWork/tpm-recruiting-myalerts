@@ -1,0 +1,34 @@
+{
+	"http://www.target.com/p/reynolds-slow-cooker-liners-6ct/-/A-49087397?preSelFlag=1": {
+		"message": "requested_qty_changed",
+		"previous": {
+			"url": "http://www.target.com/p/reynolds-slow-cooker-liners-6ct/-/A-49087397?preSelFlag=1",
+			"_cleanurl": "http://www.target.com/p/reynolds-slow-cooker-liners-6ct/-/A-49087397?preSelFlag=1",
+			"title": "Reynolds Slow Cooker Liners, 6ct",
+			"sku": "49087397",
+			"image": "http://target.scene7.com/is/image/Target/49087397",
+			"requested": "1",
+			"purchased": "0",
+			"item_line_number": "12",
+			"available": "1",
+			"price": "2.87",
+			"status": "present"
+		},
+		"current": {
+			"url": "http://www.target.com/p/reynolds-slow-cooker-liners-6ct/-/A-49087397?preSelFlag=1",
+			"_cleanurl": "http://www.target.com/p/reynolds-slow-cooker-liners-6ct/-/A-49087397?preSelFlag=1",
+			"title": "Reynolds Slow Cooker Liners, 6ct",
+			"sku": "49087397",
+			"image": "http://target.scene7.com/is/image/Target/49087397",
+			"requested": "2",
+			"purchased": "0",
+			"item_line_number": "12",
+			"available": "1",
+			"price": "2.87",
+			"status": "present"
+		},
+		"current_record_digest": "92a69aa8e4fc08fed9a597c1bfe32ac2dcc9435e",
+		"previous_record_digest": "11aae78b2f56437211f8a3626c8386a2d16a98a6",
+		"mongoid": "5775b60c246d280efd000001"
+	}
+}

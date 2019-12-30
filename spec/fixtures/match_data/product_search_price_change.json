@@ -1,0 +1,24 @@
+{
+	"http://www.sears.com/the-original-pink-box-pink-18-volt-ni/p-00926753000P?plpSellerId=FastMedia&prdNo=3&blockNo=3&blockType=G3": {
+		"message": "price_drop",
+		"previous": {
+			"url": "http://www.sears.com/the-original-pink-box-pink-18-volt-ni/p-00926753000P?plpSellerId=FastMedia&prdNo=3&blockNo=3&blockType=G3",
+			"title": "The Original Pink Box PB18VNIC Pink 18-Volt Cordless Drill",
+			"image": "http://c.shld.net/rpx/i/s/i/spin/image/spin_prod_962325312",
+			"price": "150.64",
+			"currency": "USD",
+			"status": "present"
+		},
+		"current": {
+			"url": "http://www.sears.com/the-original-pink-box-pink-18-volt-ni/p-00926753000P?plpSellerId=FastMedia&prdNo=3&blockNo=3&blockType=G3",
+			"title": "The Original Pink Box PB18VNIC Pink 18-Volt Cordless Drill",
+			"image": "http://c.shld.net/rpx/i/s/i/spin/image/spin_prod_962325312",
+			"price": "145.11",
+			"currency": "USD",
+			"status": "present"
+		},
+		"current_record_digest": "721f1b5c817d001c9a3c9f380808f69e297587a4",
+		"previous_record_digest": "ee74bcaea88c1052327c6763cb400c2b12ab00b6",
+		"mongoid": "579a9c9abe44840b61000002"
+	}
+}

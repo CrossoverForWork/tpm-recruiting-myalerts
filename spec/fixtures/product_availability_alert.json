@@ -1,0 +1,146 @@
+{
+	"items": {
+		"2361658": {
+			"tracker_id": 4993293,
+			"item_id": 2361658,
+			"item_url": "https://www.fingerhut.com/product/QV702.uts?colorName=Wheat&sizeName=9&sku=4QV702NWTS090",
+			"item_mongoid": "5839d051c59eba78930056d3",
+			"item_current_record": {
+				"data": {
+					"status": "success",
+					"clean-url": "https://www.fingerhut.com/product/QV702.uts?colorName=Wheat&sizeName=9&sku=4QV702NWTS090",
+					"type": "product",
+					"frequency": 24,
+					"domain": "fingerhut.com",
+					"company": "Fingerhut",
+					"title": "Timberland Men's EK Oakwell 7-Eye Moc Toe Boot",
+					"subtitle": "$142.99",
+					"data": {
+						"price": "142.99",
+						"currency": "USD",
+						"title": "Timberland Men's EK Oakwell 7-Eye Moc Toe Boot",
+						"out-of-stock": false,
+						"discontinued": false,
+						"description": "Medium width\n\n\nPremium leather upper\n\n\n100% recycled PET mesh lining and insole\n\n\nPadded collar provides comfort\n\n\nRubber lug outsole for durability and traction\n\n\nTie closure",
+						"images": ["https://a248.e.akamai.net/f/248/9086/10h/origin-d5.scene7.com/is/image/bluestembrands/4QV702NWTS070_VA_999?$Quickview$&hei=580&wid=755"],
+						"sku": "4QV702NWTS090",
+						"category": "Home Page _ Shoes _ Men's Shoes _ Boots _ Timberland Men's EK Oakwell 7-Eye Moc Toe Boot",
+						"category-url": "https://www.fingerhut.com/search/Shoes/Men's Shoes/Boots/110.uts",
+						"color": "Wheat",
+						"size": "9",
+						"suggested-products": [{
+							"url": "http://recs.richrelevance.com/rrserver/click?a=1058368813f3e710&vg=896d4d2b-0d13-476a-e6cb-6f562b28e4cb&pti=1&pa=modal&hpi=8937&stn=ViewedPurchased&stid=14&rti=2&sgs=&mvtId=-1&mvtTs=1480365157777&uguid=981a97ac-edbc-4f13-42a2-5454c7be5c2e&channelId=WEB&s=F22D14E38D08E04E141E60284740DBF0&pg=2237&p=RJ421&ind=0&ct=http%3A%2F%2Fwww.fingerhut.com%2Fproduct%2FRJ421.uts",
+							"title": "Timberland Men’s 6\" Premium Insulated Waterproof Boot",
+							"image": "https://s7d5.scene7.com/is/image/bluestembrands/4RJ421NWTS070_VA_999?$ShoppingCart$"
+						}, {
+							"url": "http://recs.richrelevance.com/rrserver/click?a=1058368813f3e710&vg=896d4d2b-0d13-476a-e6cb-6f562b28e4cb&pti=1&pa=modal&hpi=8937&stn=ViewedPurchased&stid=14&rti=2&sgs=&mvtId=-1&mvtTs=1480365157777&uguid=981a97ac-edbc-4f13-42a2-5454c7be5c2e&channelId=WEB&s=F22D14E38D08E04E141E60284740DBF0&pg=2237&p=RM085&ind=1&ct=http%3A%2F%2Fwww.fingerhut.com%2Fproduct%2FRM085.uts",
+							"title": "Timberland Men’s Icon Waterproof Chukka - Wide",
+							"image": "https://s7d5.scene7.com/is/image/bluestembrands/4RM085NWTS065_VA_999?$ShoppingCart$"
+						}, {
+							"url": "http://recs.richrelevance.com/rrserver/click?a=1058368813f3e710&vg=896d4d2b-0d13-476a-e6cb-6f562b28e4cb&pti=1&pa=modal&hpi=8937&stn=ViewedPurchased&stid=14&rti=2&sgs=&mvtId=-1&mvtTs=1480365157777&uguid=981a97ac-edbc-4f13-42a2-5454c7be5c2e&channelId=WEB&s=F22D14E38D08E04E141E60284740DBF0&pg=2237&p=RN918&ind=2&ct=http%3A%2F%2Fwww.fingerhut.com%2Fproduct%2FRN918.uts",
+							"title": "Timberland Men’s Earthkeepers Original 6\" Boot",
+							"image": "https://s7d5.scene7.com/is/image/bluestembrands/4RN918BWRS065_VA_999?$ShoppingCart$"
+						}, {
+							"url": "http://recs.richrelevance.com/rrserver/click?a=1058368813f3e710&vg=896d4d2b-0d13-476a-e6cb-6f562b28e4cb&pti=1&pa=modal&hpi=8937&stn=ViewedPurchased&stid=14&rti=2&sgs=&mvtId=-1&mvtTs=1480365157777&uguid=981a97ac-edbc-4f13-42a2-5454c7be5c2e&channelId=WEB&s=F22D14E38D08E04E141E60284740DBF0&pg=2237&p=RM094&ind=3&ct=http%3A%2F%2Fwww.fingerhut.com%2Fproduct%2FRM094.uts",
+							"title": "Timberland Men’s Icon 6\" Basic Boot - Wide",
+							"image": "https://s7d5.scene7.com/is/image/bluestembrands/4RM094NWTS070_VA_999?$ShoppingCart$"
+						}]
+					},
+					"categories": [
+						["Boots", "Shoes"]
+					],
+					"presets": {
+						"price-drops": "price drops"
+					},
+					"custom-rules": true,
+					"zombie": false
+				},
+				"digest": "cfeee9e8120b05a11d5b64118282ed9a9b5ab9a1",
+				"id": 44926886
+			},
+			"matches": {
+				"product_availability": {
+					"message": "now_available",
+					"url": "https://www.fingerhut.com/product/QV702.uts?colorName=Wheat&sizeName=9&sku=4QV702NWTS090",
+					"previous": {
+						"price": "142.99",
+						"currency": "USD",
+						"title": "Timberland Men's EK Oakwell 7-Eye Moc Toe Boot",
+						"out-of-stock": true,
+						"discontinued": false,
+						"description": "Medium width\n\n\nPremium leather upper\n\n\n100% recycled PET mesh lining and insole\n\n\nPadded collar provides comfort\n\n\nRubber lug outsole for durability and traction\n\n\nTie closure",
+						"images": ["https://a248.e.akamai.net/f/248/9086/10h/origin-d5.scene7.com/is/image/bluestembrands/4QV702NWTS070_VA_999?$Quickview$&hei=580&wid=755"],
+						"sku": "4QV702NWTS090",
+						"category": "Home Page _ Shoes _ Men's Shoes _ Boots _ Timberland Men's EK Oakwell 7-Eye Moc Toe Boot",
+						"category-url": "https://www.fingerhut.com/search/Shoes/Men's Shoes/Boots/110.uts",
+						"color": "Wheat",
+						"size": "9",
+						"suggested-products": [{
+							"url": "http://recs.richrelevance.com/rrserver/click?a=1058368813f3e710&vg=68196f9f-72c1-4b4e-290f-1d5629eabe91&pti=1&pa=modal&hpi=8937&stn=ViewedPurchased&stid=14&rti=2&sgs=&mvtId=-1&mvtTs=1480281965666&uguid=981a97ac-edbc-4f13-42a2-5454c7be5c2e&channelId=WEB&s=F22D14E38D08E04E141E60284740DBF0&pg=2237&p=F2542&ind=0&ct=http%3A%2F%2Fwww.fingerhut.com%2Fproduct%2FF2542.uts",
+							"title": "Carhartt Men’s Sandstone Sierra Hooded Jacket - Black",
+							"image": "https://s7d5.scene7.com/is/image/bluestembrands/4F2542NBLAXLG_A_400?$ShoppingCart$"
+						}, {
+							"url": "http://recs.richrelevance.com/rrserver/click?a=1058368813f3e710&vg=68196f9f-72c1-4b4e-290f-1d5629eabe91&pti=1&pa=modal&hpi=8937&stn=ViewedPurchased&stid=14&rti=2&sgs=&mvtId=-1&mvtTs=1480281965666&uguid=981a97ac-edbc-4f13-42a2-5454c7be5c2e&channelId=WEB&s=F22D14E38D08E04E141E60284740DBF0&pg=2237&p=RJ421&ind=1&ct=http%3A%2F%2Fwww.fingerhut.com%2Fproduct%2FRJ421.uts",
+							"title": "Timberland Men’s 6\" Premium Insulated Waterproof Boot",
+							"image": "https://s7d5.scene7.com/is/image/bluestembrands/4RJ421NWTS070_VA_999?$ShoppingCart$"
+						}, {
+							"url": "http://recs.richrelevance.com/rrserver/click?a=1058368813f3e710&vg=68196f9f-72c1-4b4e-290f-1d5629eabe91&pti=1&pa=modal&hpi=8937&stn=ViewedPurchased&stid=14&rti=2&sgs=&mvtId=-1&mvtTs=1480281965666&uguid=981a97ac-edbc-4f13-42a2-5454c7be5c2e&channelId=WEB&s=F22D14E38D08E04E141E60284740DBF0&pg=2237&p=RM085&ind=2&ct=http%3A%2F%2Fwww.fingerhut.com%2Fproduct%2FRM085.uts",
+							"title": "Timberland Men’s Icon Waterproof Chukka - Wide",
+							"image": "https://s7d5.scene7.com/is/image/bluestembrands/4RM085NWTS065_VA_999?$ShoppingCart$"
+						}, {
+							"url": "http://recs.richrelevance.com/rrserver/click?a=1058368813f3e710&vg=68196f9f-72c1-4b4e-290f-1d5629eabe91&pti=1&pa=modal&hpi=8937&stn=ViewedPurchased&stid=14&rti=2&sgs=&mvtId=-1&mvtTs=1480281965666&uguid=981a97ac-edbc-4f13-42a2-5454c7be5c2e&channelId=WEB&s=F22D14E38D08E04E141E60284740DBF0&pg=2237&p=RN918&ind=3&ct=http%3A%2F%2Fwww.fingerhut.com%2Fproduct%2FRN918.uts",
+							"title": "Timberland Men’s Earthkeepers Original 6\" Boot",
+							"image": "https://s7d5.scene7.com/is/image/bluestembrands/4RN918BWRS065_VA_999?$ShoppingCart$"
+						}]
+					},
+					"previous_record_digest": "122d932cf6f39e2487f63b1c325814fa8a65f14d",
+					"current": {
+						"price": "142.99",
+						"currency": "USD",
+						"title": "Timberland Men's EK Oakwell 7-Eye Moc Toe Boot",
+						"out-of-stock": false,
+						"discontinued": false,
+						"description": "Medium width\n\n\nPremium leather upper\n\n\n100% recycled PET mesh lining and insole\n\n\nPadded collar provides comfort\n\n\nRubber lug outsole for durability and traction\n\n\nTie closure",
+						"images": ["https://a248.e.akamai.net/f/248/9086/10h/origin-d5.scene7.com/is/image/bluestembrands/4QV702NWTS070_VA_999?$Quickview$&hei=580&wid=755"],
+						"sku": "4QV702NWTS090",
+						"category": "Home Page _ Shoes _ Men's Shoes _ Boots _ Timberland Men's EK Oakwell 7-Eye Moc Toe Boot",
+						"category-url": "https://www.fingerhut.com/search/Shoes/Men's Shoes/Boots/110.uts",
+						"color": "Wheat",
+						"size": "9",
+						"suggested-products": [{
+							"url": "http://recs.richrelevance.com/rrserver/click?a=1058368813f3e710&vg=896d4d2b-0d13-476a-e6cb-6f562b28e4cb&pti=1&pa=modal&hpi=8937&stn=ViewedPurchased&stid=14&rti=2&sgs=&mvtId=-1&mvtTs=1480365157777&uguid=981a97ac-edbc-4f13-42a2-5454c7be5c2e&channelId=WEB&s=F22D14E38D08E04E141E60284740DBF0&pg=2237&p=RJ421&ind=0&ct=http%3A%2F%2Fwww.fingerhut.com%2Fproduct%2FRJ421.uts",
+							"title": "Timberland Men’s 6\" Premium Insulated Waterproof Boot",
+							"image": "https://s7d5.scene7.com/is/image/bluestembrands/4RJ421NWTS070_VA_999?$ShoppingCart$"
+						}, {
+							"url": "http://recs.richrelevance.com/rrserver/click?a=1058368813f3e710&vg=896d4d2b-0d13-476a-e6cb-6f562b28e4cb&pti=1&pa=modal&hpi=8937&stn=ViewedPurchased&stid=14&rti=2&sgs=&mvtId=-1&mvtTs=1480365157777&uguid=981a97ac-edbc-4f13-42a2-5454c7be5c2e&channelId=WEB&s=F22D14E38D08E04E141E60284740DBF0&pg=2237&p=RM085&ind=1&ct=http%3A%2F%2Fwww.fingerhut.com%2Fproduct%2FRM085.uts",
+							"title": "Timberland Men’s Icon Waterproof Chukka - Wide",
+							"image": "https://s7d5.scene7.com/is/image/bluestembrands/4RM085NWTS065_VA_999?$ShoppingCart$"
+						}, {
+							"url": "http://recs.richrelevance.com/rrserver/click?a=1058368813f3e710&vg=896d4d2b-0d13-476a-e6cb-6f562b28e4cb&pti=1&pa=modal&hpi=8937&stn=ViewedPurchased&stid=14&rti=2&sgs=&mvtId=-1&mvtTs=1480365157777&uguid=981a97ac-edbc-4f13-42a2-5454c7be5c2e&channelId=WEB&s=F22D14E38D08E04E141E60284740DBF0&pg=2237&p=RN918&ind=2&ct=http%3A%2F%2Fwww.fingerhut.com%2Fproduct%2FRN918.uts",
+							"title": "Timberland Men’s Earthkeepers Original 6\" Boot",
+							"image": "https://s7d5.scene7.com/is/image/bluestembrands/4RN918BWRS065_VA_999?$ShoppingCart$"
+						}, {
+							"url": "http://recs.richrelevance.com/rrserver/click?a=1058368813f3e710&vg=896d4d2b-0d13-476a-e6cb-6f562b28e4cb&pti=1&pa=modal&hpi=8937&stn=ViewedPurchased&stid=14&rti=2&sgs=&mvtId=-1&mvtTs=1480365157777&uguid=981a97ac-edbc-4f13-42a2-5454c7be5c2e&channelId=WEB&s=F22D14E38D08E04E141E60284740DBF0&pg=2237&p=RM094&ind=3&ct=http%3A%2F%2Fwww.fingerhut.com%2Fproduct%2FRM094.uts",
+							"title": "Timberland Men’s Icon 6\" Basic Boot - Wide",
+							"image": "https://s7d5.scene7.com/is/image/bluestembrands/4RM094NWTS070_VA_999?$ShoppingCart$"
+						}]
+					},
+					"current_record_digest": "cfeee9e8120b05a11d5b64118282ed9a9b5ab9a1",
+					"mongoid": "5839d051c59eba78930056d3",
+					"match_mongoid": "583c9465b1e7431153019d8f"
+				}
+			},
+			"tracker": {
+				"meta": {
+					"user_agent": "Mozilla/5.0 (Linux; Android 5.1; C6740N Build/LMY47O; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/50.0.2661.86 Mobile Safari/537.36",
+					"qaTest": false
+				},
+				"created_at": "2016-11-26 18:11:29 UTC"
+			}
+		}
+	},
+	"match_types": ["product_availability"],
+	"matches_ids": [40151352],
+	"trackers_ids": [4993293],
+	"alert_type": "immediate"
+}

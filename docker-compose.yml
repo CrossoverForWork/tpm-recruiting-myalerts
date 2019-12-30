@@ -1,0 +1,74 @@
+version: '2'
+services:
+  mongo:
+    image: mongo:2.6
+    command: mongod --smallfiles
+    ports:
+      - "27017"
+
+  postgres:
+    image: postgres:9.4
+    ports:
+      - "5432"
+
+  redis:
+    image: redis
+    ports:
+      - "6379"
+
+  base:
+    build: ./
+    working_dir: /worker/
+    volumes:
+      - ./:/worker
+    ports:
+      - "9299"
+    environment:
+      - REDIS_PORT=6379
+      - REDIS_DB=0
+      - REDIS_NAMESPACE=registry_tracker
+
+      - DB_PORT=5432
+      - DB_NAME=alerts_generator_wrk
+      - DB_USER=postgres
+      - DB_PASSWORD=postgres
+      - DB_ADAPTER=postgres
+      - DB_POOL=5
+
+      - MONGO_PORT=27017
+      - MONGO_DBNAME=trackif-dev
+
+  worker:
+    extends:
+      service: base
+    command: bundle exec shotgun -p 9299 --host 0.0.0.0
+    ports:
+      - "9299:9299"
+    links:
+      - mongo:mongo.dev
+      - postgres:postgres.dev
+      - redis:redis.dev
+    environment:
+      - RACK_ENV=development
+      - LOGGER_LEVEL=debug
+      - SCHEMA_VALIDATION_ENABLED=false
+      - REDIS_HOST=redis.dev
+      - DB_HOST=postgres.dev
+      - MONGO_HOST=mongo.dev
+
+  test:
+    extends:
+      service: base
+    command: rake db:load test rubocop
+    links:
+      - postgres:postgres.test
+    environment:
+      - RACK_ENV=test
+      - LOGGER_LEVEL=warn
+      - SCHEMA_VALIDATION_ENABLED=false
+
+      - TOPIC_ALERTS_SMS=notarealtopic
+
+      - DB_NAME=alerts_generator_wrk_test
+      - DB_HOST=postgres.test
+      - DB_POOL=1

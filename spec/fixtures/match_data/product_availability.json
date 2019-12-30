@@ -1,0 +1,26 @@
+{
+	"message": "now_available",
+	"url": "http://www.calvinklein.us/shop/en/ck/1407873907340/73019057?qaTest=true",
+	"previous": {
+		"currency": "USD",
+		"price": "125.00",
+		"title": "SOFIA STONEWARE MUG IN WHITE",
+		"out-of-stock": true,
+		"images": ["http://calvinklein.scene7.com/is/image/CalvinKlein/73019057_100_main?wid=390&hei=296&fmt=jpeg&qlt=90%2c0&op_sharpen=1&resMode=trilin&op_usm=0.8%2c1.0%2c6%2c0&iccEmbed=0"],
+		"category": "Home _ Home _ Hidden Home",
+		"color": "WHITE"
+	},
+	"previous_record_digest": "4c7c6fd6c71143c43772c60be244ff2d285a0b8f",
+	"current": {
+		"currency": "USD",
+		"price": "62.5",
+		"title": "SOFIA STONEWARE MUG IN WHITE",
+		"out-of-stock": false,
+		"images": ["http://calvinklein.scene7.com/is/image/CalvinKlein/73019057_100_main?wid=390&hei=296&fmt=jpeg&qlt=90%2c0&op_sharpen=1&resMode=trilin&op_usm=0.8%2c1.0%2c6%2c0&iccEmbed=0"],
+		"category": "Home _ Home _ Hidden Home",
+		"color": "WHITE",
+		"preorder": true
+	},
+	"current_record_digest": "9549f8f7feb1d9d4040305b0ec65d5d3d17db77a",
+	"mongoid": "582255a78f0e375e73000000"
+}

@@ -1,0 +1,33 @@
+{
+	"message": "price_drop",
+	"url": "https://pobt15tic7.execute-api.us-east-1.amazonaws.com/prod/macys/products/34969793",
+	"previous": {
+		"currency": "USD",
+		"price": "400.00",
+		"msrp": "400.00",
+		"title": "Diamond Puppy Pendant Necklace (1/10 ct. t.w.) in 10k Yellow or White Gold - Yellow Gold",
+		"out-of-stock": false,
+		"images": ["http://slimages.macys.com/is/image/MCY/products/9/optimized/3168909_fpx.tif"],
+		"sku": "2513369",
+		"upc": "96303289402",
+		"category": "Jewelry & Watches > Fine Jewelry > Necklaces",
+		"brand": "Macy's",
+		"color": "Yellow Gold"
+	},
+	"previous_record_digest": "9336c44c96d94e6059c372874b11e73c3c459146",
+	"current": {
+		"currency": "USD",
+		"price": "200.00",
+		"msrp": "400.00",
+		"title": "Diamond Puppy Pendant Necklace (1/10 ct. t.w.) in 10k Yellow or White Gold - Yellow Gold",
+		"out-of-stock": false,
+		"images": ["http://slimages.macys.com/is/image/MCY/products/9/optimized/3168909_fpx.tif"],
+		"sku": "2513369",
+		"upc": "96303289402",
+		"category": "Jewelry & Watches > Fine Jewelry > Necklaces",
+		"brand": "Macy's",
+		"color": "Yellow Gold"
+	},
+	"current_record_digest": "f41dcacb0c3952666db9b6d3d0ff9166f0e4550d",
+	"mongoid": "57e42c0f8f0e3719a400005c"
+}

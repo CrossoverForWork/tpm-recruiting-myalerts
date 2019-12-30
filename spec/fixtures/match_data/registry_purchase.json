@@ -1,0 +1,66 @@
+{
+	"http://www.target.com/p/lansinoh-hpa-lanolin-tube/-/A-92544?preSelFlag=1": {
+		"message": "new_purchases",
+		"previous": {
+			"url": "http://www.target.com/p/lansinoh-hpa-lanolin-tube/-/A-92544?preSelFlag=1",
+			"_cleanurl": "http://www.target.com/p/lansinoh-hpa-lanolin-tube/-/A-92544?preSelFlag=1",
+			"title": "Lansinoh HPA Lanolin Tube",
+			"sku": "92544",
+			"image": "http://scene7.targetimg1.com/is/image/Target/92544",
+			"requested": "3",
+			"purchased": "0",
+			"item_line_number": "43",
+			"available": "1",
+			"price": "9.49",
+			"status": "present"
+		},
+		"current": {
+			"url": "http://www.target.com/p/lansinoh-hpa-lanolin-tube/-/A-92544?preSelFlag=1",
+			"_cleanurl": "http://www.target.com/p/lansinoh-hpa-lanolin-tube/-/A-92544?preSelFlag=1",
+			"title": "Lansinoh HPA Lanolin Tube",
+			"sku": "92544",
+			"image": "http://scene7.targetimg1.com/is/image/Target/92544",
+			"requested": "3",
+			"purchased": "1",
+			"item_line_number": "43",
+			"available": "1",
+			"price": "9.19",
+			"status": "present"
+		},
+		"current_record_digest": "b5a4fa22131c4759ff952c008e50b7c93bf7079a",
+		"previous_record_digest": "17eb996d180f28c4d899c01964a834036eaf3f67",
+		"mongoid": "568ff3e5ead79211dc000001"
+	},
+	"http://www.target.com/p/lansinoh-disposable-nursing-pads-60-ct/-/A-14009926?preSelFlag=1": {
+		"message": "new_purchases",
+		"previous": {
+			"url": "http://www.target.com/p/lansinoh-disposable-nursing-pads-60-ct/-/A-14009926?preSelFlag=1",
+			"_cleanurl": "http://www.target.com/p/lansinoh-disposable-nursing-pads-60-ct/-/A-14009926?preSelFlag=1",
+			"title": "Lansinoh Disposable Nursing Pads 60 ct",
+			"sku": "14009926",
+			"image": "http://scene7.targetimg1.com/is/image/Target/14009926",
+			"requested": "2",
+			"purchased": "0",
+			"item_line_number": "45",
+			"available": "1",
+			"price": "7.19",
+			"status": "present"
+		},
+		"current": {
+			"url": "http://www.target.com/p/lansinoh-disposable-nursing-pads-60-ct/-/A-14009926?preSelFlag=1",
+			"_cleanurl": "http://www.target.com/p/lansinoh-disposable-nursing-pads-60-ct/-/A-14009926?preSelFlag=1",
+			"title": "Lansinoh Disposable Nursing Pads 60 ct",
+			"sku": "14009926",
+			"image": "http://scene7.targetimg1.com/is/image/Target/14009926",
+			"requested": "2",
+			"purchased": "1",
+			"item_line_number": "45",
+			"available": "1",
+			"price": "7.19",
+			"status": "present"
+		},
+		"current_record_digest": "b5a4fa22131c4759ff952c008e50b7c93bf7079a",
+		"previous_record_digest": "17eb996d180f28c4d899c01964a834036eaf3f67",
+		"mongoid": "568ff3e5ead79211dc000002"
+	}
+}

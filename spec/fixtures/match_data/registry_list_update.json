@@ -1,0 +1,248 @@
+{
+	"https://pobt15tic7.execute-api.us-east-1.amazonaws.com/prod/macys/products/35533750": {
+		"message": "entry_added",
+		"previous": {
+			"url": "https://pobt15tic7.execute-api.us-east-1.amazonaws.com/prod/macys/products/35533750",
+			"status": "removed"
+		},
+		"current": {
+			"url": "https://pobt15tic7.execute-api.us-east-1.amazonaws.com/prod/macys/products/35533750",
+			"status": "present"
+		},
+		"current_record_digest": "07d3bce3a6f8bfd22add6c6a888b059535edfc6c",
+		"previous_record_digest": "0a1b6d98cab4031924826c89a27b2097ae6d42b5",
+		"mongoid": null
+	},
+	"https://pobt15tic7.execute-api.us-east-1.amazonaws.com/prod/macys/products/35741944": {
+		"message": "entry_added",
+		"previous": {
+			"url": "https://pobt15tic7.execute-api.us-east-1.amazonaws.com/prod/macys/products/35741944",
+			"status": "removed"
+		},
+		"current": {
+			"url": "https://pobt15tic7.execute-api.us-east-1.amazonaws.com/prod/macys/products/35741944",
+			"status": "present"
+		},
+		"current_record_digest": "07d3bce3a6f8bfd22add6c6a888b059535edfc6c",
+		"previous_record_digest": "0a1b6d98cab4031924826c89a27b2097ae6d42b5",
+		"mongoid": null
+	},
+	"https://pobt15tic7.execute-api.us-east-1.amazonaws.com/prod/macys/products/35996846": {
+		"message": "entry_added",
+		"previous": {
+			"url": "https://pobt15tic7.execute-api.us-east-1.amazonaws.com/prod/macys/products/35996846",
+			"status": "removed"
+		},
+		"current": {
+			"url": "https://pobt15tic7.execute-api.us-east-1.amazonaws.com/prod/macys/products/35996846",
+			"status": "present"
+		},
+		"current_record_digest": "07d3bce3a6f8bfd22add6c6a888b059535edfc6c",
+		"previous_record_digest": "0a1b6d98cab4031924826c89a27b2097ae6d42b5",
+		"mongoid": null
+	},
+	"https://pobt15tic7.execute-api.us-east-1.amazonaws.com/prod/macys/products/35741945": {
+		"message": "entry_added",
+		"previous": {
+			"url": "https://pobt15tic7.execute-api.us-east-1.amazonaws.com/prod/macys/products/35741945",
+			"status": "removed"
+		},
+		"current": {
+			"url": "https://pobt15tic7.execute-api.us-east-1.amazonaws.com/prod/macys/products/35741945",
+			"status": "present"
+		},
+		"current_record_digest": "07d3bce3a6f8bfd22add6c6a888b059535edfc6c",
+		"previous_record_digest": "0a1b6d98cab4031924826c89a27b2097ae6d42b5",
+		"mongoid": null
+	},
+	"https://pobt15tic7.execute-api.us-east-1.amazonaws.com/prod/macys/products/32642882": {
+		"message": "entry_added",
+		"previous": {
+			"url": "https://pobt15tic7.execute-api.us-east-1.amazonaws.com/prod/macys/products/32642882",
+			"status": "removed"
+		},
+		"current": {
+			"url": "https://pobt15tic7.execute-api.us-east-1.amazonaws.com/prod/macys/products/32642882",
+			"status": "present"
+		},
+		"current_record_digest": "07d3bce3a6f8bfd22add6c6a888b059535edfc6c",
+		"previous_record_digest": "0a1b6d98cab4031924826c89a27b2097ae6d42b5",
+		"mongoid": null
+	},
+	"https://pobt15tic7.execute-api.us-east-1.amazonaws.com/prod/macys/products/36164049": {
+		"message": "entry_added",
+		"previous": {
+			"url": "https://pobt15tic7.execute-api.us-east-1.amazonaws.com/prod/macys/products/36164049",
+			"status": "removed"
+		},
+		"current": {
+			"url": "https://pobt15tic7.execute-api.us-east-1.amazonaws.com/prod/macys/products/36164049",
+			"status": "present"
+		},
+		"current_record_digest": "07d3bce3a6f8bfd22add6c6a888b059535edfc6c",
+		"previous_record_digest": "0a1b6d98cab4031924826c89a27b2097ae6d42b5",
+		"mongoid": null
+	},
+	"https://pobt15tic7.execute-api.us-east-1.amazonaws.com/prod/macys/products/36269533": {
+		"message": "entry_added",
+		"previous": null,
+		"current": {
+			"url": "https://pobt15tic7.execute-api.us-east-1.amazonaws.com/prod/macys/products/36269533",
+			"status": "present"
+		},
+		"current_record_digest": "07d3bce3a6f8bfd22add6c6a888b059535edfc6c",
+		"previous_record_digest": "0a1b6d98cab4031924826c89a27b2097ae6d42b5",
+		"mongoid": null
+	},
+	"https://pobt15tic7.execute-api.us-east-1.amazonaws.com/prod/macys/products/35865099": {
+		"message": "entry_added",
+		"previous": {
+			"url": "https://pobt15tic7.execute-api.us-east-1.amazonaws.com/prod/macys/products/35865099",
+			"status": "removed"
+		},
+		"current": {
+			"url": "https://pobt15tic7.execute-api.us-east-1.amazonaws.com/prod/macys/products/35865099",
+			"status": "present"
+		},
+		"current_record_digest": "07d3bce3a6f8bfd22add6c6a888b059535edfc6c",
+		"previous_record_digest": "0a1b6d98cab4031924826c89a27b2097ae6d42b5",
+		"mongoid": null
+	},
+	"https://pobt15tic7.execute-api.us-east-1.amazonaws.com/prod/macys/products/36118112": {
+		"message": "entry_added",
+		"previous": {
+			"url": "https://pobt15tic7.execute-api.us-east-1.amazonaws.com/prod/macys/products/36118112",
+			"status": "removed"
+		},
+		"current": {
+			"url": "https://pobt15tic7.execute-api.us-east-1.amazonaws.com/prod/macys/products/36118112",
+			"status": "present"
+		},
+		"current_record_digest": "07d3bce3a6f8bfd22add6c6a888b059535edfc6c",
+		"previous_record_digest": "0a1b6d98cab4031924826c89a27b2097ae6d42b5",
+		"mongoid": null
+	},
+	"https://pobt15tic7.execute-api.us-east-1.amazonaws.com/prod/macys/products/35747482": {
+		"message": "entry_added",
+		"previous": {
+			"url": "https://pobt15tic7.execute-api.us-east-1.amazonaws.com/prod/macys/products/35747482",
+			"status": "removed"
+		},
+		"current": {
+			"url": "https://pobt15tic7.execute-api.us-east-1.amazonaws.com/prod/macys/products/35747482",
+			"status": "present"
+		},
+		"current_record_digest": "07d3bce3a6f8bfd22add6c6a888b059535edfc6c",
+		"previous_record_digest": "0a1b6d98cab4031924826c89a27b2097ae6d42b5",
+		"mongoid": null
+	},
+	"https://pobt15tic7.execute-api.us-east-1.amazonaws.com/prod/macys/products/36013959": {
+		"message": "entry_added",
+		"previous": null,
+		"current": {
+			"url": "https://pobt15tic7.execute-api.us-east-1.amazonaws.com/prod/macys/products/36013959",
+			"status": "present"
+		},
+		"current_record_digest": "07d3bce3a6f8bfd22add6c6a888b059535edfc6c",
+		"previous_record_digest": "0a1b6d98cab4031924826c89a27b2097ae6d42b5",
+		"mongoid": null
+	},
+	"https://pobt15tic7.execute-api.us-east-1.amazonaws.com/prod/macys/products/35995044": {
+		"message": "entry_added",
+		"previous": {
+			"url": "https://pobt15tic7.execute-api.us-east-1.amazonaws.com/prod/macys/products/35995044",
+			"status": "removed"
+		},
+		"current": {
+			"url": "https://pobt15tic7.execute-api.us-east-1.amazonaws.com/prod/macys/products/35995044",
+			"status": "present"
+		},
+		"current_record_digest": "07d3bce3a6f8bfd22add6c6a888b059535edfc6c",
+		"previous_record_digest": "0a1b6d98cab4031924826c89a27b2097ae6d42b5",
+		"mongoid": null
+	},
+	"https://pobt15tic7.execute-api.us-east-1.amazonaws.com/prod/macys/products/35605208": {
+		"message": "entry_added",
+		"previous": {
+			"url": "https://pobt15tic7.execute-api.us-east-1.amazonaws.com/prod/macys/products/35605208",
+			"status": "removed"
+		},
+		"current": {
+			"url": "https://pobt15tic7.execute-api.us-east-1.amazonaws.com/prod/macys/products/35605208",
+			"status": "present"
+		},
+		"current_record_digest": "07d3bce3a6f8bfd22add6c6a888b059535edfc6c",
+		"previous_record_digest": "0a1b6d98cab4031924826c89a27b2097ae6d42b5",
+		"mongoid": null
+	},
+	"https://pobt15tic7.execute-api.us-east-1.amazonaws.com/prod/macys/products/35853666": {
+		"message": "entry_added",
+		"previous": {
+			"url": "https://pobt15tic7.execute-api.us-east-1.amazonaws.com/prod/macys/products/35853666",
+			"status": "removed"
+		},
+		"current": {
+			"url": "https://pobt15tic7.execute-api.us-east-1.amazonaws.com/prod/macys/products/35853666",
+			"status": "present"
+		},
+		"current_record_digest": "07d3bce3a6f8bfd22add6c6a888b059535edfc6c",
+		"previous_record_digest": "0a1b6d98cab4031924826c89a27b2097ae6d42b5",
+		"mongoid": null
+	},
+	"https://pobt15tic7.execute-api.us-east-1.amazonaws.com/prod/macys/products/35979637": {
+		"message": "entry_added",
+		"previous": {
+			"url": "https://pobt15tic7.execute-api.us-east-1.amazonaws.com/prod/macys/products/35979637",
+			"status": "removed"
+		},
+		"current": {
+			"url": "https://pobt15tic7.execute-api.us-east-1.amazonaws.com/prod/macys/products/35979637",
+			"status": "present"
+		},
+		"current_record_digest": "07d3bce3a6f8bfd22add6c6a888b059535edfc6c",
+		"previous_record_digest": "0a1b6d98cab4031924826c89a27b2097ae6d42b5",
+		"mongoid": null
+	},
+	"https://pobt15tic7.execute-api.us-east-1.amazonaws.com/prod/macys/products/35790589": {
+		"message": "entry_added",
+		"previous": {
+			"url": "https://pobt15tic7.execute-api.us-east-1.amazonaws.com/prod/macys/products/35790589",
+			"status": "removed"
+		},
+		"current": {
+			"url": "https://pobt15tic7.execute-api.us-east-1.amazonaws.com/prod/macys/products/35790589",
+			"status": "present"
+		},
+		"current_record_digest": "07d3bce3a6f8bfd22add6c6a888b059535edfc6c",
+		"previous_record_digest": "0a1b6d98cab4031924826c89a27b2097ae6d42b5",
+		"mongoid": null
+	},
+	"https://pobt15tic7.execute-api.us-east-1.amazonaws.com/prod/macys/products/36366857": {
+		"message": "entry_added",
+		"previous": {
+			"url": "https://pobt15tic7.execute-api.us-east-1.amazonaws.com/prod/macys/products/36366857",
+			"status": "removed"
+		},
+		"current": {
+			"url": "https://pobt15tic7.execute-api.us-east-1.amazonaws.com/prod/macys/products/36366857",
+			"status": "present"
+		},
+		"current_record_digest": "07d3bce3a6f8bfd22add6c6a888b059535edfc6c",
+		"previous_record_digest": "0a1b6d98cab4031924826c89a27b2097ae6d42b5",
+		"mongoid": null
+	},
+	"https://pobt15tic7.execute-api.us-east-1.amazonaws.com/prod/macys/products/35996293": {
+		"message": "entry_added",
+		"previous": {
+			"url": "https://pobt15tic7.execute-api.us-east-1.amazonaws.com/prod/macys/products/35996293",
+			"status": "removed"
+		},
+		"current": {
+			"url": "https://pobt15tic7.execute-api.us-east-1.amazonaws.com/prod/macys/products/35996293",
+			"status": "present"
+		},
+		"current_record_digest": "07d3bce3a6f8bfd22add6c6a888b059535edfc6c",
+		"previous_record_digest": "0a1b6d98cab4031924826c89a27b2097ae6d42b5",
+		"mongoid": null
+	}
+}
